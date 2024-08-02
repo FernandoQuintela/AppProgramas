@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "23992642135",
+    "project_id": "productosdefernando",
+    "storage_bucket": "productosdefernando.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23992642135:android:7c84dd06feae96f5fe1112",
+        "android_client_info": {
+          "package_name": "a1.b1.c1.d1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZR5Hui4wH21fpDSBkWm7PqMpWTWpd6Cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

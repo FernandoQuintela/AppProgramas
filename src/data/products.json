@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "nombre": "Superman",
+      "portada": "https://firebasestorage.googleapis.com/v0/b/comision57275fernando.appspot.com/o/super.png?alt=media",
+      "precio": 399,
+      "tamaño": 10,
+      "tipo": "Coleccion"
+    },
+    {
+      "nombre": "Flash",
+      "portada": "https://firebasestorage.googleapis.com/v0/b/comision57275fernando.appspot.com/o/flash.png?alt=media",
+      "precio": 399,
+      "tamaño": 10,
+      "tipo": "Coleccion"
+    },
+    {
+      "nombre": "Batman",
+      "portada": "https://firebasestorage.googleapis.com/v0/b/comision57275fernando.appspot.com/o/bat.png?alt=media",
+      "precio": 399,
+      "tamaño": 10,
+      "tipo": "Coleccion"
+    },
+    {
+      "nombre": "Green Lantern",
+      "portada": "https://firebasestorage.googleapis.com/v0/b/comision57275fernando.appspot.com/o/lantern.png?alt=media",
+      "precio": 399,
+      "tamaño": 10,
+      "tipo": "Coleccion"
+    },
+    {
+      "id": 5,
+      "nombre": "Kano",
+      "portada": "https://firebasestorage.googleapis.com/v0/b/comision57275fernando.appspot.com/o/Mortal Kombat.jpg?alt=media",
+      "precio": 399,
+      "tamaño": 10,
+      "tipo": "Coleccion"
+    }
+  ]
+}

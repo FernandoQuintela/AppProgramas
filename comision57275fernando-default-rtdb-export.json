@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "nombre": "Superman",
+      "portada": "gs://comision57275fernando.appspot.com/super.png",
+      "precio": 399,
+      "tamaño": 10,
+      "tipo": "Coleccion"
+    },
+    {
+      "nombre": "Flash",
+      "portada": "gs://comision57275fernando.appspot.com/flash.png",
+      "precio": 399,
+      "tamaño": 10,
+      "tipo": "Coleccion"
+    },
+    {
+      "nombre": "Batman",
+      "portada": "gs://comision57275fernando.appspot.com/bat.png",
+      "precio": 399,
+      "tamaño": 10,
+      "tipo": "Coleccion"
+    },
+    {
+      "nombre": "Green Lantern",
+      "portada": "gs://comision57275fernando.appspot.com/lantern.png",
+      "precio": 399,
+      "tamaño": 10,
+      "tipo": "Coleccion"
+    }
+  ]
+}
